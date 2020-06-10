@@ -1,0 +1,29 @@
+2020-02-02 15:18:28.6171 [DEBUG] Validating model...
+2020-02-02 15:18:28.8884 [DEBUG] Model validated
+2020-02-02 15:18:28.8884 [DEBUG] Authenticating with server...
+2020-02-02 15:18:32.8193 [DEBUG] Connected to room. (118699:SceneFusion:SceneFusion)
+2020-02-02 15:18:32.8233 [INFO] Connected to server.
+2020-02-02 15:18:32.8243 [DEBUG] OS : Microsoft Windows NT 10.0.17763.0
+2020-02-02 15:18:32.8243 [DEBUG] Unity Version : 2018.4.16f1
+2020-02-02 15:18:32.8243 [DEBUG] Pro License : True
+2020-02-02 15:18:32.8243 [DEBUG] Platform : WindowsEditor
+2020-02-02 15:18:32.8243 [DEBUG] Build Target : StandaloneWindows64
+2020-02-02 15:18:32.8243 [DEBUG] Scene Fusion version : 1.8.6
+2020-02-02 15:18:32.8243 [DEBUG] Scene Fusion client build : 0
+2020-02-02 15:18:32.8243 [DEBUG] User : k.li@ludus-academie.com
+2020-02-02 15:18:32.8243 [DEBUG] Waiting for server response
+2020-02-02 15:18:32.8273 [DEBUG] Tier: Free, Permissions: 00000200
+2020-02-02 15:18:32.8273 [DEBUG] User Permissions: FFFFFFFF
+2020-02-02 15:18:32.8283 [DEBUG] No stand-in for UnityEngine.LocalizationAsset
+2020-02-02 15:18:32.8283 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2020-02-02 15:18:32.8293 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2020-02-02 15:18:32.8293 [DEBUG] No stand-in for UnityEngine.TerrainLayer
+2020-02-02 15:18:32.8293 [DEBUG] No stand-in for UnityEngine.Experimental.VFX.VisualEffectAsset
+2020-02-02 15:18:33.1287 [DEBUG] Uploading scene 'PlateformLVL1'
+2020-02-02 15:18:33.3885 [DEBUG] Compressing scene data
+2020-02-02 15:18:33.6418 [DEBUG] Spawn request. (Objects: 156)
+2020-02-02 15:18:34.0348 [DEBUG] Loading complete
+2020-02-02 15:19:00.3998 [DEBUG] Spawn request. (Objects: 1)
+2020-02-02 15:19:17.4112 [DEBUG] Disconnecting from room (118699:SceneFusion:SceneFusion)
+2020-02-02 15:19:17.4142 [INFO] Disconnected from server.
+2020-02-02 15:19:17.4142 [DEBUG] Disconnect. (Duration: 44)
